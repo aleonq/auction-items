@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">AuctionYours</string>
+
+
+    <string name="action_logout">Logout</string>
+    <string name="login_user_id_hint">Enter user ID</string>
+    <string name="login_password_hint">Enter password</string>
+    <string name="login_credentials">Login credentials</string>
+    <string name="register_user">Create new account</string>
+    <string name="login">Login</string>
+
+    <string name="error_msg_user_login">Invalid credentials</string>
+    <string name="success_msg_user_login">Logging you in..</string>
+    <string name="user_name_hint">Enter your name</string>
+    <string name="success_register">Registration Successful, logging you in..</string>
+    <string name="error_msg_user_register_constraints">User id already taken, please try a different one</string>
+    <string name="error_msg_generic">Error Occured</string>
+    <string name="success_msg_generic">Done!</string>
+    <string name="bid_owner_user">Your item</string>
+    <string name="bid_owner_other">By: %s</string>
+    <string name="enter_your_bid">Enter your bid</string>
+    <string name="place_bid">Bid</string>
+    <string name="item_bid">Current bid: %d</string>
+    <string name="item_name">Name: %s</string>
+    <string name="item_category">Category: %s</string>
+    <string name="item_bid_start">Started on: %s</string>
+    <string name="item_bid_expiry">Expires on: %s</string>
+    <string name="item_description">Description:\n%s</string>
+    <string name="item_id">Item id: %d</string>
+    <string name="wait_generic">Please wait..</string>
+    <string name="error_msg_invalid_bid">Please enter valid bid amount</string>
+    <string name="error_msg_invalid_item_name">Please enter item name</string>
+    <string name="bid_activation_policy">Bid will start today and will expire after 50 days.</string>
+    <string name="_by_">", by "</string>
+    <string name="create_password_hint">Enter password</string>
+    <string name="error_msg_invalid_user_id">Error: User ID should be Minimum 3 characters alphanumeric</string>
+    <string name="error_msg_invalid_user_name">Error: User name should be Minimum 2 characters alphabet</string>
+    <string name="error_msg_invalid_password">Error: Password should be Minimum 4 characters alphanumeric</string>
+</resources>

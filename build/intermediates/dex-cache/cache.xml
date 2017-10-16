@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_9ebf3c50d38d225eb94aecb9a04941ef1e30aa1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.6.0\48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8\butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.6.0_8deb161378f1cfd44ca3546d2a864cf21650ce89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_ae20f978375a9ac9fe133a21c04f28c8c853bb89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_31a578263e823952a8cdba594944c8953ce4fc02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_612b5f1c8a731266b37e3c32d6027d757126a89d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1775538e744a346adc37030b77e097316032e8e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.6.0_1d79a6e6d963e365940d7dfd5a2b7f13be1298d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_24b1584de8d6d12377e6e8e9082b73abb0e681bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_787f4ce46742faa39e71013e90ed4f7b0cda5c32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_65fb496af499672019c947b57880e4b7d8aaed43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.9\75a739e59d7ede2f7f425f369955bdd1c2ac122b\dagger-2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="75a739e59d7ede2f7f425f369955bdd1c2ac122b">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\dagger-2.9_a35f3fdfa88b950cb3b8843050ef5de361aa91ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_08a82496ae150c228c6085bc880fd0c62465e800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_d41f78ae2e82cae2f9988e0245b98f70277379e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_b2c5618b3981d8e761f42c06f75747d1356ea695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_ae4ad1425535ecea802a262f40e3a41a6e3630b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_7e6db905cbdb01759819c9efac8c29f7db88415b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_05fa76a2974839db6f961df7214e52c083ef40e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\javax.inject-1_877b63b941dd78ab04387788b55fe380e5d0c388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taru\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\taru\dev\assingment\intellij\Android_dev_AniruddhSingh\Source\AuctionYours\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_2f046980155c09b44a884c4ca4cc18c0584442d1.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".mvp.auctionitemdetails.AuctionItemDetailsActivity"
+    tools:showIn="@layout/activity_auction_item_details">
+
+    <LinearLayout
+        android:id="@+id/ll_bid_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <include layout="@layout/bid_input_view"></include>
+
+            <TextView
+                android:id="@+id/tv_item_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/item_details_margin"
+                android:text="item name"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_item_bid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/item_details_margin"
+                android:text="@string/item_bid"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_item_category"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/item_details_margin"
+                android:text="item category"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_item_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/item_details_margin"
+                android:text="item id"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_item_bid_start_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/item_details_margin"
+                android:text="started on"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_item_bid_expiry_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/item_details_margin"
+                android:text="expires on"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_item_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/item_details_margin"
+                android:text="item description"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>
